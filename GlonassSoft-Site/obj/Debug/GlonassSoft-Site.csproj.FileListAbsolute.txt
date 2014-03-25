@@ -1,0 +1,6 @@
+c:\users\vinichenko_ms\documents\visual studio 2013\Projects\GlonassSoft-Site\GlonassSoft-Site\bin\GlonassSoft-Site.dll.config
+c:\users\vinichenko_ms\documents\visual studio 2013\Projects\GlonassSoft-Site\GlonassSoft-Site\bin\GlonassSoft-Site.dll
+c:\users\vinichenko_ms\documents\visual studio 2013\Projects\GlonassSoft-Site\GlonassSoft-Site\bin\GlonassSoft-Site.pdb
+c:\users\vinichenko_ms\documents\visual studio 2013\Projects\GlonassSoft-Site\GlonassSoft-Site\obj\Debug\GlonassSoft-Site.csprojResolveAssemblyReference.cache
+c:\users\vinichenko_ms\documents\visual studio 2013\Projects\GlonassSoft-Site\GlonassSoft-Site\obj\Debug\GlonassSoft-Site.dll
+c:\users\vinichenko_ms\documents\visual studio 2013\Projects\GlonassSoft-Site\GlonassSoft-Site\obj\Debug\GlonassSoft-Site.pdb
